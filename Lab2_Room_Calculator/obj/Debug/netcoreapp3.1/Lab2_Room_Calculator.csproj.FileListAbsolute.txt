@@ -1,0 +1,13 @@
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab2_Room_Calculator\Lab2_Room_Calculator\bin\Debug\netcoreapp3.1\Lab2_Room_Calculator.exe
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab2_Room_Calculator\Lab2_Room_Calculator\bin\Debug\netcoreapp3.1\Lab2_Room_Calculator.deps.json
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab2_Room_Calculator\Lab2_Room_Calculator\bin\Debug\netcoreapp3.1\Lab2_Room_Calculator.runtimeconfig.json
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab2_Room_Calculator\Lab2_Room_Calculator\bin\Debug\netcoreapp3.1\Lab2_Room_Calculator.runtimeconfig.dev.json
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab2_Room_Calculator\Lab2_Room_Calculator\bin\Debug\netcoreapp3.1\Lab2_Room_Calculator.dll
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab2_Room_Calculator\Lab2_Room_Calculator\bin\Debug\netcoreapp3.1\Lab2_Room_Calculator.pdb
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab2_Room_Calculator\Lab2_Room_Calculator\obj\Debug\netcoreapp3.1\Lab2_Room_Calculator.csprojAssemblyReference.cache
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab2_Room_Calculator\Lab2_Room_Calculator\obj\Debug\netcoreapp3.1\Lab2_Room_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab2_Room_Calculator\Lab2_Room_Calculator\obj\Debug\netcoreapp3.1\Lab2_Room_Calculator.AssemblyInfoInputs.cache
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab2_Room_Calculator\Lab2_Room_Calculator\obj\Debug\netcoreapp3.1\Lab2_Room_Calculator.AssemblyInfo.cs
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab2_Room_Calculator\Lab2_Room_Calculator\obj\Debug\netcoreapp3.1\Lab2_Room_Calculator.dll
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab2_Room_Calculator\Lab2_Room_Calculator\obj\Debug\netcoreapp3.1\Lab2_Room_Calculator.pdb
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab2_Room_Calculator\Lab2_Room_Calculator\obj\Debug\netcoreapp3.1\Lab2_Room_Calculator.genruntimeconfig.cache
